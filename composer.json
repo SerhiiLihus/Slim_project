@@ -1,0 +1,15 @@
+{
+    "name": "sl/slim_project",
+    "description": "Simple slim project",
+    "authors": [
+        {
+            "name": "Serhii Lihus",
+            "email": "aerq911@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0",
+        "slim/twig-view": "^2.1",
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
